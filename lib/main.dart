@@ -15,7 +15,8 @@ void main() {
             fontSize: 20,
             fontWeight: FontWeight.bold,
             letterSpacing: 2.0,
-            color: Colors.grey[600] 
+            color: Colors.grey[600],
+            fontFamily: 'IndieFlower' 
             ),
         ),
       ),
