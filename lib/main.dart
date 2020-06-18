@@ -17,6 +17,7 @@ class Home extends StatelessWidget {
       ),
       body: Container(
         color: Colors.grey[400],
+        child: Text('Hello'),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: (){},
